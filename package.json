@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My Stock Trading Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Steven Andrews",
+  "license": "ISC",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.12.1",
+    "@master-chief/alpaca": "^6.3.15",
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "qs": "^6.5.2",
+    "querystring": "^0.2.1",
+    "unirest": "^0.6.0"
+  }
+}
